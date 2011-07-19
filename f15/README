@@ -1,0 +1,3 @@
+Fedora 15 Instalatron scripts
+
+Fedora 15 needs more than 512 MB of RAM available to boot/install so make sure u use the --vm-memory flag with instalatron-record and instalatron-play

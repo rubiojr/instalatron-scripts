@@ -1,0 +1,52 @@
+--- 
+- :image: boot_loader.png
+  :sequence: <enter>
+  :name: boot loader
+- :image: disc_found.png
+  :sequence: <tab><enter>
+  :name: disc found
+- :image: lang_select.png
+  :sequence: <enter>
+  :name: lang select
+- :image: keyboard_select.png
+  :sequence: <enter>
+  :name: keyboard select
+- :image: storage_devices.png
+  :sequence: <enter>
+  :name: storage devices
+- :image: storage_device_warning.png
+  :sequence: <tab><tab><enter>
+  :name: storage device warning
+- :image: configure_network.png
+  :sequence: fedora<tab><enter>
+  :name: configure network
+- :image: network_connections.png
+  :sequence: <tab><tab><tab><enter>
+  :name: network connections
+- :image: edit_network_device.png
+  :sequence: <tab><spacebar><tab><Right><Right><tab><tab><tab><tab><tab><tab><tab><tab><enter>
+  :name: edit network device
+- :image: network_connections_done.png
+  :sequence: <tab><tab><enter>
+  :name: network connections done
+- :image: configure_network_done.png
+  :sequence: <tab><tab><enter>
+  :name: configure network done
+- :image: timezone.png
+  :sequence: <tab><tab><tab><tab><tab><tab><tab><tab><enter><enter>
+  :name: timezone
+- :image: root_password.png
+  :sequence: fedora<tab>fedora<enter>
+  :name: root password
+- :image: weak_password_warning.png
+  :sequence: <tab><enter>
+  :name: weak password warning
+- :image: installation_type.png
+  :sequence: <enter>
+  :name: installation type
+- :image: confirm_partitions.png
+  :sequence: <tab><enter>
+  :name: confirm partitions
+- :image: package_selection.png
+  :sequence: <tab><Down><Down><Down><spacebar><tab><tab><tab><tab><tab><tab><enter>
+  :name: package selection

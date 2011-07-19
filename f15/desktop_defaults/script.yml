@@ -1,0 +1,40 @@
+--- 
+- :sequence: <enter>
+  :name: boot
+  :image: boot.png
+- :sequence: <tab><enter>
+  :name: disc found
+  :image: disc_found.png
+- :sequence: <enter>
+  :name: lang select
+  :image: lang_select.png
+- :sequence: <enter>
+  :name: keyboard select
+  :image: keyboard_select.png
+- :sequence: <enter>
+  :name: storage devices
+  :image: storage_devices.png
+- :sequence: <tab><Spacebar><tab><enter>
+  :name: discard data
+  :image: discard_data.png
+- :sequence: test-fedora<tab><tab><tab><enter>
+  :name: hostname
+  :image: hostname.png
+- :sequence: <enter>
+  :name: timezone
+  :image: timezone.png
+- :sequence: fedora<tab>fedora<tab><tab><enter>
+  :name: root password
+  :image: root_password.png
+- :sequence: <tab><enter>
+  :name: weak password
+  :image: weak-pass.png
+- :sequence: <enter>
+  :name: install type
+  :image: install_type.png
+- :sequence: <tab><enter>
+  :name: confirm write changes
+  :image: confirm_write_changes.png
+- :sequence: <enter>
+  :name: package selection
+  :image: package_selection.png
